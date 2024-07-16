@@ -1,6 +1,6 @@
 ## Tujuan Program
 
-Program ini bertujuan untuk membantu admin Rumah Sakit mengelola data pasien dengan menyediakan fungsi untuk menambah, menampilkan, memperbarui, menghapus, dan memfilter data pasien. 
+Program ini bertujuan untuk membantu admin di Rumah Sakit mengelola data pasien dengan menyediakan fungsi untuk menambah, menampilkan, memperbarui, menghapus, dan memfilter data pasien. 
 Program ini memudahkan pengguna untuk mengelola informasi pasien secara terstruktur dan efisien.
 
 ## Alur Program
